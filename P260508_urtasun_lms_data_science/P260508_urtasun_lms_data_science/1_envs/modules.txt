@@ -1,0 +1,4 @@
+Modules used:
+fastqc/0.12.1
+py-multiqc/1.15-jtstpap
+
